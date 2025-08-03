@@ -1,5 +1,4 @@
-# Ejercicio1
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -78,6 +77,12 @@
         </div>
         <div class="image-placeholder"></div>
     </div>
-
+<div class="info-box">
+        <h2>                     
+        <p>Al trabajar la pagina vamos a tener la siguiente información</p>
+         <p>1. Presionar en Home, nos vamos a la pagina principal con la imformacion de nuestra pagina</p>  
+           <p>2. Al presionar la estudiante y Administradores vamos a mostrar una tabla con el listado de estudiantes y administradores</p>  
+         </h2>
+    </div>
 </body>
 </html>
